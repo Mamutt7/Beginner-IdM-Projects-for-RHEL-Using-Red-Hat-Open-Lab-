@@ -1,1 +1,4 @@
-# Beginner-IdM-Projects-for-RHEL-Using-Red-Hat-Open-Lab-
+# Local User and Group Management
+
+1. Create a New User and Group
+
